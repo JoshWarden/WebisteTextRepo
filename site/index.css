@@ -1,0 +1,15 @@
+body {
+  background-color: grey;
+}
+
+h1 {
+  position: relative;
+  font-family: monaco;
+  color: azure;
+  text-shadow: 2px 2px 1px #000000;
+  font-size: 50px;
+}
+
+p {
+  color: white;
+}
