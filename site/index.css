@@ -1,5 +1,6 @@
 body {
   background-color: grey;
+  text-align: center;
 }
 
 h1 {
@@ -12,4 +13,21 @@ h1 {
 
 p {
   color: white;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: aqua;
+  box-shadow: 1px 1px 3px #000000;
+}
+
+.navbar a {
+  float: middle;
+  font-family: helvetica;
+  font-size: 40px;
+  font-weight: bolder;
+  color: azure;
+  text-shadow: 1px 1px 3px #000000;
+  padding: 10px 14px;
+  text-decoration: none;
 }
